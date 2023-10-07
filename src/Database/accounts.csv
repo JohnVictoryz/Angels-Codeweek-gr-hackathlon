@@ -1,2 +1,2 @@
-username,password,role,phone,email
-example,12345,volunteer,+3069700235632,example@example.com
+username,password,role,email
+example,12345,volunteer,example@example.com
